@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+def add(num1,num2):
+    return num1+num2
+>>>>>>> main
 #Features
 
 def sum(a : int, b: int ) -> int:
@@ -12,4 +17,8 @@ def sum(a : int, b: int ) -> int:
     """
     return a+b
 print(sum(90,10))
+<<<<<<< HEAD
 print("hello world")
+=======
+print("hello world")
+>>>>>>> main
