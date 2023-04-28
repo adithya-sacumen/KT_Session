@@ -1,5 +1,9 @@
 def add(num1,num2):
     return num1+num2
+
+def sub(num1,num2):
+    return num1-num2
+
 #Features
 
 def sum(a : int, b: int ) -> int:
@@ -14,5 +18,3 @@ def sum(a : int, b: int ) -> int:
     """
     return a+b
 print(sum(90,10))
-print("hello world")
-print("hello world")
